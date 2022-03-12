@@ -10,4 +10,5 @@ There are still lots of minor and major bugs within starland's code, and some of
 The biggest issue is there's a 25% chance that the camera will not initialize properly and it will attach to the character rather than the CFrame of the camerapart.
 I've been writing a list down of all the bugs currently known and i will start cracking down on them shortly. 
 Development has been inconsistent recently as i've had to be working on school.
+Edit: I accidentally deleted the A record for the main website and it should be fixed in like 5 minutes
 ## 
