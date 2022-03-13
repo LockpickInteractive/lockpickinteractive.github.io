@@ -1,6 +1,9 @@
 ## StarLand's Blog
 Simple blog i use to talk about starland's development process
 
+### Post 2
+Today i've setup cloudflare on the main website, as well as google analytics. I installed a cookie consent applet and google analytics so i can see what's going on behind the scenes. I don't want to setup Google Ads right now, but that might be something i add in the future.
+
 ### The First Post
 I do wish that i'd have started this earlier, because so much development has gone on before now.
 I recently published [the new website](https://playstar.land) and it looks much nicer than before where it was just basic HTML.
