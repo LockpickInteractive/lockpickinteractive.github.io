@@ -2,7 +2,7 @@
 Simple blog i use to talk about starland's development process
 
 ### Post 3 
-Yesterday i posted ["a leak"](https://blog.playstar.land/images/FN2x0KOWUAYfJ9k.png). There's a new plaza in development and it won't look like a preschool art project like the current one you've seen. It was made by riley, the builder for the game and it looks super nice so far. I'm going to remove the physical "StarStore" from the plaza and make one just via a GUI for now, most likely will stay that way and i've tried it in the past but it wasn't very nice looking and i'll try to make one look "okay". I'm no GUI designer.
+Yesterday i posted ["a leak"](https://blog.playstar.land/images/FN2x0KOWUAYfJ9k.png) on my twitter and there's a new plaza in development. It won't look like a preschool art project like the current one you've seen. It was made by riley, the builder for the game and it looks super nice so far. I'm going to remove the physical "StarStore" from the plaza and make one just via a GUI for now, most likely will stay that way and i've tried it in the past but it wasn't very nice looking and i'll try to make one look "okay". I'm no GUI designer.
 
 ### Post 2
 Today i've setup cloudflare on the main website, as well as google analytics. I installed a cookie consent applet and google analytics so i can see what's going on behind the scenes. I don't want to setup Google Ads right now, but that might be something i add in the future.
