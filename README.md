@@ -1,6 +1,8 @@
 ## StarLand's Blog
 Simple GH pages blog i use to talk about starland's development process
 
+### Post 5 - Big Change
+StarLand's "Point and Click" mouse movement mode will no longer be the default form of input. Moving forward the default movement mode will be WASD/Arrows and the Point And Click functionality will be moved to the settings as a beta functionality.
 ### Post 4
 This morning i was working on how pet purchases are handled as well as currency values being changed. 1 StarCoin was worth too much, i'm changing currency values to better reflect other games. I've also gone and serversided the way pets are purchased and changed the scrips in the GUIS to be local like a normal person. Still waiting on riley to finish building the exterior of the petshop so i can reveal it to the public. Will update this post as the day goes on
 
