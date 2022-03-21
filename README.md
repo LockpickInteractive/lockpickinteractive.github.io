@@ -1,5 +1,8 @@
 ## StarLand's Blog
-Simple blog i use to talk about starland's development process
+Simple GH pages blog i use to talk about starland's development process
+
+### Post 4
+This morning i was working on how pet purchases are handled as well as currency values being changed. 1 StarCoin was worth too much, i'm changing currency values to better reflect other games. I've also gone and serversided the way pets are purchased and changed the scrips in the GUIS to be local like a normal person. Still waiting on riley to finish building the exterior of the petshop so i can reveal it to the public. Will update this post as the day goes on
 
 ### Post 3 
 Yesterday i posted ["a leak"](https://blog.playstar.land/images/FN2x0KOWUAYfJ9k.png) on my twitter and there's a new plaza in development. It won't look like a preschool art project like the current one you've seen. It was made by riley, the builder for the game and it looks super nice so far. I'm going to remove the physical "StarStore" from the plaza and make one just via a GUI for now, most likely will stay that way and i've tried it in the past but it wasn't very nice looking and i'll try to make one look "okay". I'm no GUI designer.
