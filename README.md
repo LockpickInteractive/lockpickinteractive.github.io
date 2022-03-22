@@ -2,7 +2,7 @@
 Simple GH pages blog i use to talk about starland's development process
 
 ### Post 6 - Console Testing
-Currently, i'm in the middle of testing StarLand for Xbox now that point and click will no longer be a default form of input.
+Currently, i'm in the middle of testing StarLand for Xbox now that point and click will no longer be a default form of input. Update: XBOX input seems to work, changing some GUI to be c
 ### Post 5 - Big Change
 StarLand's "Point and Click" mouse movement mode will no longer be the default form of input. Moving forward the default movement mode will be WASD/Arrows and the Point And Click functionality will be moved to the settings as a beta functionality.
 
