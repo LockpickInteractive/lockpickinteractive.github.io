@@ -1,8 +1,11 @@
 ## StarLand's Blog
 Simple GH pages blog i use to talk about starland's development process
 
+### Post 7 - Platform Optimizations
+Right now, i'm trying to work on cross-platform compatible controlsets and making the settings GUI presentable. Right now i'm focused on getting proper input glyphs for all platforms. [These buttons i've found are amazing,](https://thoseawesomeguys.com/prompts/) so i'm going to end up using these. RIght now i'm also setting up on screen touch buttons to interact and scaling them because by default they're in a really small shape in the ocrner of the screen. Today i'm also going to finalize the backpack system and finish with the gear system, which uses the [GearDB](https://github.com/StarLandRBLX/GearDB) system. 
 ### Post 6 - Console Testing
-Currently, i'm in the middle of testing StarLand for Xbox now that point and click will no longer be a default form of input. Update: XBOX input seems to work, changing some GUI to be c
+Currently, i'm in the middle of testing StarLand for Xbox now that point and click will no longer be a default form of input. Update: XBOX input seems to work, changing some GUI to be console friendly.
+
 ### Post 5 - Big Change
 StarLand's "Point and Click" mouse movement mode will no longer be the default form of input. Moving forward the default movement mode will be WASD/Arrows and the Point And Click functionality will be moved to the settings as a beta functionality.
 
