@@ -1,0 +1,1 @@
+### Please don't open pull requests unless necessary! It's really not necessary as this is a blog, but if you are fixing a spelling mistake or other formatting error, you can open a pull request just fine!
