@@ -3,6 +3,8 @@ Simple GH pages blog i use to talk about starland's development process
 
 ### Post 9 - Full Speed ahead
 StarLand's new buildings have been officially moved from the development branch to the production branch and i'll consider posting screenshots soon. For now, i'll work hard on trying to actually finish the game, we're in the final quarter (I think, unless something goes completely wrong.) There's one or two things that need polishing or needs to be moved from a active feature to a beta feature due to the amount of bugs that the game has right now, It's pretty stable but there are 5-6 major game-breaking or otherwise exploitable bugs that i'm working on fixing as we speak.
+Edit:[ great moderation](https://twitter.com/qfoxbRBLX/status/1508831251200983044)
+
 ### Post 8 - Perfecting gamepad input
 Today, i'm going to try to finish and perfect the gamepad controls to work well on all platforms, but i feel the hardest to master will be the Gamepad platform. In the settings panel, there'll be a button to change the brand of your controller and if none is chosen it will assume that it is completely generic. It will show a glyph of where on the controller to press instead of what button. I'm also going to autoset the controller brand to xbox if the payer is ona  console as xbox is the only brand roblox is officially on (as a console) Update: Still working on this 3/25/22
 
