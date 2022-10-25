@@ -3,3 +3,4 @@ google_analytics: G-VG9JW0S5EG
 site_favicon: favicon.ico
 plugins:
   - jekyll-sitemap
+  - jekyll-twemoji
